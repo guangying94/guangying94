@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ## 🌱 I’m currently learning...
-- Web Development (Blazor & CSS)
+- Web Development (Blazor, CSS, NodeJS, ReactJS)
 - Video Analytics on IoT
 
 ###
